@@ -1,8 +1,5 @@
-<p align="center"><strong>Programmer Analyst</strong></p>
+#Programmer Analyst
 
-<p align="center">
-  
-</p>
 ---
 ## About me
 Hi! I'm a programmer analyst from Lima, Peru.
