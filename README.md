@@ -1,4 +1,8 @@
-# Programmer analyst
+<p align="center"><strong>Programmer Analyst — Derek Lopez</strong></p>
+
+<p align="center">
+  🐘 PHP &nbsp;&nbsp; 💎 Ruby &nbsp;&nbsp; 🍃 Angular &nbsp;&nbsp; 🌐 HTML5 &nbsp;&nbsp; 💻 JavaScript &nbsp;&nbsp; 📘 SQL
+</p>
 ---
 ## About me
 Hi! I'm a programmer analyst from Lima, Peru.
