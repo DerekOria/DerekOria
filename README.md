@@ -1,4 +1,4 @@
-<p align="center"><strong>Programmer Analyst — Derek Lopez</strong></p>
+<p align="center" width="80"><strong>Programmer Analyst — Derek Lopez</strong></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
