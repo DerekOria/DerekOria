@@ -1,7 +1,7 @@
 <h1 align="center" ><strong>Programmer Analyst</strong></h1>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,angular,react,cs,cpp,mysql,ruby,rails">
+ <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,angular,react,cs,cpp,mysql,ruby,rails">
 </p>
 
 ---
